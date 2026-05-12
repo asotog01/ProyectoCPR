@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto_docu1=self.webpackChunkproyecto_docu1||[]).push([["4715"],{6796(o){o.exports=JSON.parse('{"metadata":{"permalink":"/ProyectoCPR/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
