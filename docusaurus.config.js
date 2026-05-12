@@ -20,15 +20,17 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://github.com/asotog01',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/ProyectoCPR/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'asotog01', // Usually your GitHub org/user name.
+  projectName: 'ProyectoCPR', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // Rama oculta que creará Docusaurus para alojar la web
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
@@ -97,15 +99,15 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'asoSidebar',
+            sidebarId: 'piaSibebar',
             position: 'left',
-            label: 'ASO',
+            label: 'Big Data',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'bigDataSidebar',
+            sidebarId: 'ASOlSidebar',
             position: 'left',
-            label: 'Big Data',
+            label: 'ASO',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
