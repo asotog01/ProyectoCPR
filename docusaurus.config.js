@@ -99,13 +99,13 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'piaSibebar',
+            sidebarId: 'bigDataSidebar',
             position: 'left',
             label: 'Big Data',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'ASOlSidebar',
+            sidebarId: 'asoSidebar',
             position: 'left',
             label: 'ASO',
           },
